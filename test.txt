@@ -1,0 +1,11 @@
+# File used as input by automated tests
+
+Today there was a lot of sunshine today
+Many shops were open
+Children were happy
+
+I have might get a haircut today
+Perhaps also go out for some beef
+
+I want to also watch some football today
+I hope to enjoy it
